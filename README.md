@@ -50,3 +50,9 @@ Voice and design are personal; contributions of substance are unlikely to be a f
 **Documentation** (`.md` files): [Creative Commons Attribution 4.0](LICENSE). Adapt, share, credit.
 
 **Wordmark SVG files** (`wordmark/`): personal identity, no license granted. Using the abukix wordmark to represent your own work is not permitted.
+
+## 🤖 AI Assisted Development
+
+This project is open-source and maintained by a human, but it heavily leverages
+**Claude Code** as an AI development assistant to accelerate scaffolding,
+refactoring, and testing. All code is human-reviewed and verified before merging.
