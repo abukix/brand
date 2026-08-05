@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/logo.svg" alt="brand" width="290">
+<img src="assets/logo.svg" alt="brand three anchor colors mark" width="120">
+
+# `brand`
 
 **The visual and voice identity behind `abukix`, `basecamp`, and `/root`. Voice anchors, typography, colors, and wordmark rules.**
 
